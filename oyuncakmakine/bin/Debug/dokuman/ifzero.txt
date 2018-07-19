@@ -1,0 +1,7 @@
+
+ifzero komutu akumulator degeri sifir oldugu surece dallanir.
+
+ornek=
+basla:
+
+ifzero basla -okumulator degeri sifir ise basla satirina dallanir.

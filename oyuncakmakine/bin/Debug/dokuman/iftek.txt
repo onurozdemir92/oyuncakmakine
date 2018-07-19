@@ -1,0 +1,7 @@
+
+iftek komutu akumulator degeri tek oldugu surece dallanir.
+
+ornek=
+basla:
+
+iftek basla -akumulator degeri tek ise basla satirina dallanir.

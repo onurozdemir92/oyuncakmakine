@@ -1,0 +1,4 @@
+
+bu komut belirtilen degeri akumulatorden eksiltir.
+
+sonucu akumulatore yazar.

@@ -1,0 +1,24 @@
+-2 sayinin ekok unu hesaplar
+get
+store bir
+store t1
+get
+store iki
+store t2
+basla:
+load bir
+mod iki
+store tut
+load iki
+store bir
+load tut
+store iki
+ifzero yaz
+goto basla
+load bir
+yaz:
+load t1
+mul t2
+div bir
+print 
+stop

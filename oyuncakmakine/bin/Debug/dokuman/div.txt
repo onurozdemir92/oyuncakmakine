@@ -1,0 +1,4 @@
+
+bu komut belirtilen deger ile akumulatordeki degeri boler
+
+sonuc akumulatore yazilir

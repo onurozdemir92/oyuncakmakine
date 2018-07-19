@@ -1,0 +1,7 @@
+
+ifneg komutu akumulator degeri negatif oldugu surece dallanir.
+
+ornek=
+basla:
+
+ifneg basla -akumulator degeri negatif ise basla satirina dallanir.

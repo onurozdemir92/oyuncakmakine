@@ -1,0 +1,18 @@
+Komutlar bosluk Ile baslamamalidir.
+
+Komutlar kucuk harfler ile yazilmalidir.
+
+Her program bitimine 'stop' komutunu yaziniz.
+
+'-' ile baslayan komutlar dikkate alinmaz.
+
+Program kisir donguye girmemesi icin en fazla 10000 islem ile sinirlandirilmistir.
+
+adimlama bolumunde islem kisitlamasi yoktur.
+
+Program dallanma komutleri ':' isareti ile bitmelidir.
+
+ornek=
+Basla:
+
+goto Basla

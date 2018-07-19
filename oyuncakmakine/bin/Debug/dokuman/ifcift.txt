@@ -1,0 +1,7 @@
+
+ifcift komutu akumulator degeri cift oldugu surece dallanir.
+
+ornek=
+basla:
+
+ifcift basla -akumulator degeri cift ise basla satirina dallanir.

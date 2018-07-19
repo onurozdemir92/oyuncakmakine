@@ -1,0 +1,4 @@
+
+bu komur belirtilen deger ile akumulatordeki degerin modunu alir
+
+sonuc akumulatore yazilir.

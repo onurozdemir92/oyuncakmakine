@@ -1,0 +1,20 @@
+-2 Sayinin ebob unu hesaplar
+get
+store bir
+get
+store iki
+basla:
+load bir
+mod iki
+store tut
+load iki
+store bir
+load tut
+store iki
+ifzero yaz
+goto basla
+yaz:
+load bir
+print
+stop
+

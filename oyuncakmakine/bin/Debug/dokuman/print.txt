@@ -1,0 +1,2 @@
+
+bu komut akumulatordeki degeri cikti ekranina yazdiracaktir.

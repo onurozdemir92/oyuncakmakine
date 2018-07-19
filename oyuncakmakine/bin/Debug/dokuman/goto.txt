@@ -1,0 +1,7 @@
+
+goto komutu sartsiz dallanma komutudur.
+
+ornek=
+basla:
+
+goto basla -basla satirina dallanir.

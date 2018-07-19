@@ -1,0 +1,3 @@
+
+Bu komut yazildiginda deger girmeniz icin bir pencere acilacaktir
+girmis oldugunuz deger akumulatore yuklenecektir.

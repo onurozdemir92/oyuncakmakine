@@ -1,0 +1,7 @@
+
+ifpos komutu akumulator degeri pozitif oldugu surece dallanir.
+
+ornek=
+basla:
+
+ifpos basla -okumulator degeri pozitif ise basla satirina dallanir.

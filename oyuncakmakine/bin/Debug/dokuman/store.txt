@@ -1,0 +1,6 @@
+
+bu komut belirtilen degisken adi ile akumulatordeki degeri bellege kaydeder.
+
+ornek=
+
+store a -akumulatordeki degeri a adiyla bellege kaydeder.

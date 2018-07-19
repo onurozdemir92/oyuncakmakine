@@ -1,0 +1,7 @@
+
+bu komut belirtilen degeri akumulatore yukler
+
+ornek=
+load 7 -7 degerini akumulatore yukler.
+
+load a -bellekdeki a degerini akumulatore yukler.

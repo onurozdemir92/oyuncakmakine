@@ -1,0 +1,13 @@
+
+bu komut belirtilen deger ile akumulatordeki degeri toplar 
+
+sonuc akumulatore yazilir
+
+ornek=
+akumulator=1
+add 5 -akumulatore 5 ekler.
+akumulator=6
+
+veya
+
+add a -bellekde kayitli olan a degerini akumulatore ekler.

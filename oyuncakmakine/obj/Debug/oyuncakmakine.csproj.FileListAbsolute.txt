@@ -1,0 +1,13 @@
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\bin\Debug\oyuncakmakine.exe.config
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\bin\Debug\oyuncakmakine.exe
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\bin\Debug\oyuncakmakine.pdb
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\obj\Debug\oyuncakmakine.Form1.resources
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\obj\Debug\oyuncakmakine.Properties.Resources.resources
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\obj\Debug\oyuncakmakine.csproj.GenerateResource.cache
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\obj\Debug\oyuncakmakine.csproj.CoreCompileInputs.cache
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\obj\Debug\oyuncakmakine.exe
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\obj\Debug\oyuncakmakine.pdb
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\obj\Debug\oyuncakmakine.get.resources
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\obj\Debug\oyuncakmakine.acilis.resources
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\obj\Debug\oyuncakmakine.yardim.resources
+C:\Users\onurrahmi\source\repos\oyuncakmakine\oyuncakmakine\obj\Debug\oyuncakmakine.csprojAssemblyReference.cache
